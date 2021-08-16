@@ -3,10 +3,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.coursera.distributed</groupId>
-    <artifactId>miniproject_1</artifactId>
+    <artifactId>miniproject_2</artifactId>
     <packaging>jar</packaging>
     <version>0.0</version>
-    <name>miniproject_1</name>
+    <name>miniproject_2</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +24,6 @@
             <version>3.8.2</version>
             <scope>test</scope>
         </dependency>
-        <!-- Apache Spark -->
         <dependency>
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-core_2.10</artifactId>
